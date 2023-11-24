@@ -12,9 +12,6 @@ A Repository exploring the details of diffusion generation
 ## Looking at means on the 20 batches instead of raw values
 
 ![means](https://github.com/fmerizzi/Analyzing_Diffusion_Generation/blob/main/raw_numbers.png)
-
 ![means](https://github.com/fmerizzi/Analyzing_Diffusion_Generation/blob/main/Variance.png)
-
 ![means](https://github.com/fmerizzi/Analyzing_Diffusion_Generation/blob/main/MSES_means.png)
-
 ![means](https://github.com/fmerizzi/Analyzing_Diffusion_Generation/blob/main/SSIMS_means.png)
