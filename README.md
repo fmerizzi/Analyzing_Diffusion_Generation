@@ -1,7 +1,7 @@
 # Analyzing_Diffusion_Generation
 A Repository exploring the details of diffusion generation
 ### Ensamble pixelwise variance
-<img src="https://github.com/fmerizzi/Analyzing_Diffusion_Generation/blob/main/Ensamble_Pixelwise_variance.png" width="100" height="100">
+<img src="https://github.com/fmerizzi/Analyzing_Diffusion_Generation/blob/main/Ensamble_Pixelwise_variance.png" width="800" height="800">
 
 ### Ensamble MSES
 ![Ensamble pixelwise mses](https://github.com/fmerizzi/Analyzing_Diffusion_Generation/blob/main/MSES.png)
