@@ -15,7 +15,7 @@ A Repository exploring the details of diffusion generation
 ![means](https://github.com/fmerizzi/Analyzing_Diffusion_Generation/blob/main/full_diffusion/multi_row_numbers.png)
 ![means](https://github.com/fmerizzi/Analyzing_Diffusion_Generation/blob/main/full_diffusion/Multi_variance_mean.png)
 ![means](https://github.com/fmerizzi/Analyzing_Diffusion_Generation/blob/main/full_diffusion/Multi_mses_mean.png)
-![means](https://github.com/fmerizzi/Analyzing_Diffusion_Generation/blob/main/full_diffusion/Multi_mses_mean.png)
+![means](https://github.com/fmerizzi/Analyzing_Diffusion_Generation/blob/main/full_diffusion/Multi_ssims_mean.png)
 
 ## Diffusion generation for Diffusion (full_size, Single)
 
