@@ -4,10 +4,10 @@ A Repository exploring the details of diffusion generation
 <img src="https://github.com/fmerizzi/Analyzing_Diffusion_Generation/blob/main/Ensamble_Pixelwise_variance.png" width="800" height="800">
 
 ### Ensamble MSES
-![Ensamble pixelwise mses](https://github.com/fmerizzi/Analyzing_Diffusion_Generation/blob/main/MSES.png)
+<img src="https://github.com/fmerizzi/Analyzing_Diffusion_Generation/blob/main/MSES.png" width="800" height="800">
 
 ### Ensamble SSIMS
-![Ensamble pixelwise variance](https://github.com/fmerizzi/Analyzing_Diffusion_Generation/blob/main/SSMIS.png)
+<img src="https://github.com/fmerizzi/Analyzing_Diffusion_Generation/blob/main/SSMIS.png" width="800" height="800">
 
 ## Looking at means on the 20 batches instead of raw values
 
@@ -17,13 +17,13 @@ A Repository exploring the details of diffusion generation
 ![means](https://github.com/fmerizzi/Analyzing_Diffusion_Generation/blob/main/SSIMS_means.png)
 
 ### Single pixelwise variance
-![Ensamble pixelwise variance](https://github.com/fmerizzi/Analyzing_Diffusion_Generation/blob/main/Single_Ensamble_Pixelwise_variance.png)
+<img src="https://github.com/fmerizzi/Analyzing_Diffusion_Generation/blob/main/Single_Ensamble_Pixelwise_variance.png" width="800" height="800">
 
 ### Single MSES
-![Ensamble pixelwise mses](https://github.com/fmerizzi/Analyzing_Diffusion_Generation/blob/main/Single_MSES.png)
+<img src="https://github.com/fmerizzi/Analyzing_Diffusion_Generation/blob/main/Single_MSES.png" width="800" height="800">
 
 ### Single SSIMS
-![Ensamble pixelwise variance](https://github.com/fmerizzi/Analyzing_Diffusion_Generation/blob/main/Single_SSMIS.png)
+<img src="https://github.com/fmerizzi/Analyzing_Diffusion_Generation/blob/main/Single_SSMIS.png" width="800" height="800">
 
 ## Looking at means on the 20 batches instead of raw values
 
