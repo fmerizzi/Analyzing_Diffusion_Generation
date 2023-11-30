@@ -1,5 +1,7 @@
 # Analyzing_Diffusion_Generation
 A Repository exploring the details of diffusion generation
+ - Should we consider a non-linear noise scheduler?
+ - How is this charactesristic problem-specific, model-specific and training specific?
 ## Diffusion generation for Diffusion (full size, Ensemble)
 #### Ensamble pixelwise variance
 <img src="https://github.com/fmerizzi/Analyzing_Diffusion_Generation/blob/main/full_diffusion/Multi_variance.png" width="800" height="800">
